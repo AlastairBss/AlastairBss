@@ -7,18 +7,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Cloud security engineer who automates the boring stuff so humans can focus on the hard problems. Currently building AI-powered tools and securing AWS infrastructure at scale.
 
 - 🎓 **Student** @ B.S. Abdur Rahman Crescent Institute of Science and Technology, Chennai
-- 🔐 Obsessed with **cloud security automation** and **AI integration**
-- 📊 Published researcher at **IEEE ICETS 2025** on real-time eye disease detection using deep learning
-- ⚡ I turn manual security audits into lambda functions
+- Obsessed with **cloud security automation** and **AI integration**
+- Published researcher at **IEEE ICETS 2025** on real-time eye disease detection using deep learning
+- I turn manual security audits into lambda functions
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -56,7 +56,7 @@ Automated security response system that catches suspicious IAM activity in real-
 
 ---
 
-### 🛡️ [IAM Security Audit Tool](https://github.com/AlastairBss/IAM-Audit-Tool.git)
+### [IAM Security Audit Tool](https://github.com/AlastairBss/IAM-Audit-Tool.git)
 **Automated daily security compliance scanner**
 
 AWS Lambda function that scans all IAM users for security misconfigurations (missing MFA, old access keys, overprivileged permissions) and sends detailed email reports. Scheduled to run daily via EventBridge.
@@ -67,7 +67,7 @@ AWS Lambda function that scans all IAM users for security misconfigurations (mis
 
 ---
 
-### 📧 [Inbox Intelligence](https://inbox-intelligence.streamlit.app/)
+### [Inbox Intelligence](https://inbox-intelligence.streamlit.app/)
 **AI-powered email organizer**
 
 Gmail integration that uses AI to automatically categorize emails into action-required, updates, academic, and noise. Built with FastAPI backend (OAuth + Gmail API) and Streamlit dashboard frontend.
@@ -78,7 +78,7 @@ Gmail integration that uses AI to automatically categorize emails into action-re
 
 ---
 
-### 🏗️ [Containerized Microservices on ECS Fargate](https://github.com/AlastairBss/cloud-microservices-deployment/tree/main/microservices-project)
+### [Containerized Microservices on ECS Fargate](https://github.com/AlastairBss/cloud-microservices-deployment/tree/main/microservices-project)
 **Production-grade serverless container deployment**
 
 Fully automated CI/CD pipeline deploying containerized microservices to AWS ECS Fargate with Application Load Balancer traffic distribution and auto-scaling.
@@ -107,7 +107,7 @@ Presented research on applying deep learning models and OpenCV for automated rea
 
 ---
 
-### 🚀 Currently Working On
+### Currently Working On
 - Publishing a second research paper to **IEEE Springerboard**
 - Scaling cloud security automation tools for enterprise use
 - Building AI-integrated AWS workflows
