@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DAEF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Afsan+Ahmed+%F0%9F%91%8B;AI+%26+Cloud+Security+Engineer;Building+Automation+%7C+Breaking+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=3DAEF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Afsan+Ahmed+P+M+%F0%9F%91%8B;AI+%26+Cloud+Security+Engineer;Building+Automation+%7C+Breaking+Things" alt="Typing SVG" />
 
 </div>
 
