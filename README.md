@@ -45,7 +45,7 @@ Cloud security engineer who automates the boring stuff so humans can focus on th
 
 ## 🔥 Featured Projects
 
-### ⚡ [Cloud Security Monitoring & Automated Response System](https://github.com/AlastairBss)
+### ⚡ [Cloud Security Monitoring & Automated Response System](https://github.com/AlastairBss/Cloud-Security-Automation.git)
 **Real-time threat detection and auto-remediation**
 
 Automated security response system that catches suspicious IAM activity in real-time using **AWS CloudTrail** and **EventBridge**. When a rogue access key is detected, Lambda functions automatically disable it and quarantine the user via SSM Automation.
@@ -56,7 +56,7 @@ Automated security response system that catches suspicious IAM activity in real-
 
 ---
 
-### 🛡️ [IAM Security Audit Tool](https://github.com/AlastairBss/IAM-Audit-Tool)
+### 🛡️ [IAM Security Audit Tool](https://github.com/AlastairBss/IAM-Audit-Tool.git)
 **Automated daily security compliance scanner**
 
 AWS Lambda function that scans all IAM users for security misconfigurations (missing MFA, old access keys, overprivileged permissions) and sends detailed email reports. Scheduled to run daily via EventBridge.
@@ -67,7 +67,7 @@ AWS Lambda function that scans all IAM users for security misconfigurations (mis
 
 ---
 
-### 📧 Inbox Intelligence
+### 📧 [Inbox Intelligence](https://inbox-intelligence.streamlit.app/)
 **AI-powered email organizer**
 
 Gmail integration that uses AI to automatically categorize emails into action-required, updates, academic, and noise. Built with FastAPI backend (OAuth + Gmail API) and Streamlit dashboard frontend.
@@ -78,7 +78,7 @@ Gmail integration that uses AI to automatically categorize emails into action-re
 
 ---
 
-### 🏗️ [Containerized Microservices on ECS Fargate](https://github.com/AlastairBss)
+### 🏗️ [Containerized Microservices on ECS Fargate](https://github.com/AlastairBss/cloud-microservices-deployment/tree/main/microservices-project)
 **Production-grade serverless container deployment**
 
 Fully automated CI/CD pipeline deploying containerized microservices to AWS ECS Fargate with Application Load Balancer traffic distribution and auto-scaling.
@@ -87,7 +87,7 @@ Fully automated CI/CD pipeline deploying containerized microservices to AWS ECS 
 
 ---
 
-### 🌐 [Highly Available AWS Web App](https://github.com/AlastairBss)
+### 🌐 [Highly Available AWS Web App]([https://github.com/AlastairBss](https://github.com/AlastairBss/aws-webapp-terraform.git))
 **Infrastructure as Code with Terraform**
 
 Production-style AWS infrastructure featuring Application Load Balancer, Auto Scaling Groups, private EC2 instances, NAT gateway networking, and multi-AZ high availability. All provisioned via Terraform.
@@ -98,7 +98,7 @@ Production-style AWS infrastructure featuring Application Load Balancer, Auto Sc
 
 ## 🏆 Achievements
 
-### 📄 IEEE Published Researcher
+### 📄 [IEEE Published Researcher](https://drive.google.com/file/d/1UaT7Cqws6sDo05PaaWebk011N_gvpSql/view?usp=sharing)
 **Paper:** *Real-Time Eye Disease Detection Using Deep Learning & OpenCV*  
 **Conference:** 9th International Conference on Engineering Technology and Science (ICETS' 25)  
 **Date:** March 28, 2025 | Muthayammal College of Engineering, Tamil Nadu
@@ -135,6 +135,7 @@ Presented research on applying deep learning models and OpenCV for automated rea
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-afsan-hommysharpshoo-2230s-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsan-ahmed-pm-27aa10288/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlastairBss)
+[![Gmail](afsanahmedpm@gmail.com)]
 
 </div>
 
